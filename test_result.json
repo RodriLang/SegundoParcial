@@ -1,0 +1,25 @@
+{
+  "sane": [
+    {
+      "name": "Jose",
+      "lastName": "Lopez",
+      "age": 22,
+      "neighborhood": "El grosellar",
+      "dni": "25654654",
+      "occupation": "Carpintero"
+    },
+    {
+      "name": "Mariano",
+      "lastName": "Manzur",
+      "age": 52,
+      "neighborhood": "San martin",
+      "dni": "25654564",
+      "occupation": "Carpintero"
+    }
+  ],
+  "isolate": [
+    [
+      "[Person{name='Jose', lastName='Lopez', age=22, neighborhood='El grosellar', dni='25654654', occupation='Carpintero'}, Person{name='Mariano', lastName='Manzur', age=52, neighborhood='San martin', dni='25654564', occupation='Carpintero'}]"
+    ]
+  ]
+}

@@ -2,7 +2,6 @@ package service;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import model.TestResult;
-import utilities.JsonConverter;
 
 import java.io.File;
 import java.io.IOException;
